@@ -1,4 +1,4 @@
-# MockHelper
+# JiraHelper
 
 ## Purpose
 Execute JQL queries against Jira from IDE. Result is printed to IDE console.
